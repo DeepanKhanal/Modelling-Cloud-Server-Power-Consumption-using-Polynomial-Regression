@@ -2,21 +2,6 @@
 #  ST7089CEM  Introduction to Statistical Methods for Data Science
 #  Coursework: Modelling Cloud Server Power Consumption using Polynomial
 #              Regression
-#
-#  Complete, reproducible analysis script (Tasks 1, 2.1-2.7 and 3).
-#
-#  HOW TO RUN
-#  1. Put this script and the three data files in the same folder
-#     (X.csv / y.csv / time.csv, or the "x_-_Sheet1.csv" style names).
-#  2. In RStudio: Session > Set Working Directory > To Source File Location,
-#     then click "Source".  From a terminal:  Rscript ST7089CEM_analysis.R
-#  3. All figures are written to ./figures and all numeric tables to
-#     ./outputs.  Total run time is roughly 30-60 seconds.
-#
-#  PACKAGES: only base R plus 'MASS' (ships with every R installation and is
-#  used for the 2-D kernel density in Task 3).  Tested with R 4.3.3.
-###############################################################################
-
 ## ---------------------------------------------------------------------------
 ## 0. Set-up
 ## ---------------------------------------------------------------------------
